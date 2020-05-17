@@ -34,4 +34,4 @@ export const getParagraph = (sentenceCount?: number): string => {
   return sentences.join("\n");
 };
 
-console.log(getParagraph());
+// console.log(getParagraph(4));
